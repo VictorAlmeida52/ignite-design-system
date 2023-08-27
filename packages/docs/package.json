@@ -1,0 +1,41 @@
+{
+  "name": "@vhalmeida-ui/docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "storybook dev -p 6006 --no-open",
+    "build": "storybook build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@storybook/addon-essentials": "^7.3.2",
+    "@storybook/addon-interactions": "^7.3.2",
+    "@storybook/addon-links": "^7.3.2",
+    "@storybook/addon-onboarding": "^1.0.8",
+    "@storybook/blocks": "^7.3.2",
+    "@storybook/manager-api": "^7.3.2",
+    "@storybook/react": "^7.3.2",
+    "@storybook/react-vite": "^7.3.2",
+    "@storybook/testing-library": "^0.2.0",
+    "@storybook/theming": "^7.3.2",
+    "@vhalmeida-ui/eslint-config": "*",
+    "@vitejs/plugin-react": "^4.0.4",
+    "eslint-plugin-storybook": "^0.6.13",
+    "prop-types": "^15.8.1",
+    "storybook": "^7.3.2",
+    "vite": "^4.4.9"
+  },
+  "dependencies": {
+    "@vhalmeida-ui/eslint-config": "*",
+    "@vhalmeida-ui/ts-config": "*",
+    "@vhalmeida-ui/react": "*",
+    "@vhalmeida-ui/tokens": "*",
+    "polished": "^4.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
