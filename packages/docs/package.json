@@ -30,6 +30,7 @@
     "vite": "^4.4.9"
   },
   "dependencies": {
+    "@storybook/addon-a11y": "^7.3.2",
     "@vhalmeida-ui/eslint-config": "*",
     "@vhalmeida-ui/react": "*",
     "@vhalmeida-ui/tokens": "*",
