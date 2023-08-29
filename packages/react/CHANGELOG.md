@@ -1,5 +1,11 @@
 # @vhalmeida-ui/react
 
+## 2.1.0
+
+### Minor Changes
+
+- New components added: Toast and Tooltip
+
 ## 2.0.1
 
 ### Patch Changes

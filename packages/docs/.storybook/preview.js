@@ -15,7 +15,8 @@ const preview = {
         },
         backgrounds: {
             default: 'dark'
-        }
+        },
+        layout: 'centered',
     },
 };
 
